@@ -20,7 +20,7 @@
 5. Панель администратора.
 6. Разделить логику на фронтенд, бекенд и слой работы с БД.
 7. Применить принципы ООП.
-8. Сохранить результаты в Git-репозиторий. **Документация по работе с git** - https://github.com/softboxdev/linux_deep_level/blob/main/practice/github.md 
+8. Сохранить результаты в Git-репозиторий.
 
 ---
 
@@ -1235,7 +1235,7 @@ git push -u origin main
 ```
 
 **Рекомендуется сделать минимум 3 коммита** — поэтапно фиксировать создание слоёв.
-**Документация по работе с git** - https://github.com/softboxdev/linux_deep_level/blob/main/practice/github.md 
+**Документация по работе с git** - (вместо **apt**  используйте **dnf**) https://github.com/softboxdev/linux_deep_level/blob/main/practice/github.md 
 ---
 
 ## Требования к результату
