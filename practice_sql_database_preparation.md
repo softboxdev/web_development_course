@@ -34,7 +34,7 @@ sqlite3 --version
 Выполните в терминале:
 
 ```bash
-sudo dnf install sqlite3
+sudo dnf install sqlite3-tools
 ```
 
 После ввода пароля администратора система скачает и установит SQLite.
