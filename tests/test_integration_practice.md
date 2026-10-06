@@ -87,7 +87,7 @@ code test_hash.py
 
 ## Шаг 2. Запись содержимого файла
 
-Вставьте в файл следующий код:
+Напишите следующий код:
 
 ```python
 from werkzeug.security import generate_password_hash, check_password_hash
@@ -293,7 +293,7 @@ nano test_sql_injection.py
 
 ## Шаг 2. Запись содержимого файла
 
-Вставьте следующий код:
+Напишите следующий код:
 
 ```python
 from backend.database import Database
