@@ -132,7 +132,7 @@ class User(BaseModel):
 
 ### 1.4. Проверка хеширования
 
-Создайте тестовый скрипт `test_hash.py`:
+Создайте тестовый скрипт `test_hash.py` (согласно инструкции https://github.com/softboxdev/web_development_course/blob/main/tests/test_integration_practice.md):
 
 ```python
 from werkzeug.security import generate_password_hash, check_password_hash
@@ -233,7 +233,7 @@ class Database:
 
 ### 2.5. Тест на SQL-инъекцию
 
-Создайте `test_sql_injection.py`:
+Создайте `test_sql_injection.py` (согласно инструкции https://github.com/softboxdev/web_development_course/blob/main/tests/test_integration_practice.md):
 
 ```python
 from backend.database import Database
