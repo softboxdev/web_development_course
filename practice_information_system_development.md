@@ -1271,7 +1271,7 @@ EOF
 
 ---
 
-## Шаг 7. Коммиты в Git ( https://github.com/softboxdev/linux_deep_level/blob/main/practice/github.md) 
+## Шаг 7. Коммиты в Git ( вместо **apt** используйте **dnf** https://github.com/softboxdev/linux_deep_level/blob/main/practice/github.md) 
 
 ```bash
 # Коммит 1: Тестовые данные
